@@ -1,0 +1,23 @@
+div{ 
+    border-radius: 10px;
+    border: 2px solid rgb(0, 51, 128);
+    width: 20%;
+    padding-left: 10px;
+    height: 30vh;
+    margin: 20px;
+    padding-top: 10px;
+}
+h2{
+    margin: 10px;
+    color: rgb(0, 60, 255);
+}
+button{
+    margin-top: 15px;
+    width: 30%;
+    height:25px;
+}
+input{
+    border-radius: 4px;
+    width: 80%;
+    height: 20px;
+}
